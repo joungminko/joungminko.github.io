@@ -76,6 +76,7 @@ ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED;
 * JDK 8 이상을 준비합니다.
 * ORDS 를 실행시킬 VM에 접속 합니다.
 * ORDS 압축을 해제하고 아래 명령어를 수행해 줍니다.  이때 수행하는 폴더안에 ords 이름의 폴더명으로 설정정보가 저장됩니다.
+* static 폴더에는 apex의 images 폴더의 path를 지정해야 합니다.
 ```
 java -jar ./ords.war install advanced
 ```
@@ -94,3 +95,11 @@ java -jar ./ords.war install advanced
 ### 참조사이트
 
 * 테스트로 설치한 APEX 사이트: [link](http://150.136.125.158:8080/ords/f?p=4550:1:7259868572154:::::){:target="_blank"}
+* APEX Tips : Basic APEX Management: [link](https://oracle-base.com/articles/misc/apex-tips-basic-apex-management){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
+*: [link](){:target="_blank"}
