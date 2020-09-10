@@ -92,6 +92,7 @@ java -jar ./ords.war install advanced
 ![]({{ 'assets/images/apex_02.png' | relative_url }})
   * 여기에서 하위 워크스페이스, 그 워크스페이스의 관리자를 생성해주고 초기 화면으로 돌아가 해당 워크스페이스에 관리자로 접근합니다.
   * 이후 사용자 추가하고 APEX 개발을 하실 수 있습니다.
+
 ### 참조사이트
 
 * 테스트로 설치한 APEX 사이트: [link](http://150.136.125.158:8080/ords/f?p=4550:1:7259868572154:::::){:target="_blank"}
