@@ -11,7 +11,7 @@ title: "[OCI] DBCS + APEX 설치"
 	* ORDS 설치
 
 ### 환경설정
-##### APEX 설정
+##### # APEX 설정
 
 * 필요한 서버에 접속, 파일을 전송하기 위해 아래의 커맨드를 활용하실 수 있습니다.
 
@@ -72,7 +72,7 @@ ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED;
   * 이제 ORDS(APEX)에서 접속할 때 사용할 PDB의 service name을 확인합니다.
 ![]({{ 'assets/images/db_server_pdb_service_name.png' | relative_url }})
 
-##### ORDS 설정
+##### # ORDS 설정
 * JDK 8 이상을 준비합니다.
 * ORDS 를 실행시킬 VM에 접속 합니다.
 * ORDS 압축을 해제하고 아래 명령어를 수행해 줍니다.  이때 수행하는 폴더안에 ords 이름의 폴더명으로 설정정보가 저장됩니다.
@@ -80,10 +80,11 @@ ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED;
 java -jar ./ords.war install advanced
 ```
 ![]({{ 'assets/images/vm_server_ords_config01.png' | relative_url }})
+* 이후 ords를 Standalone으로 실행해 줍니다.
 ![]({{ 'assets/images/vm_server_ords_config02.png' | relative_url }})
 
 ### 실행
-##### APEX 웹 접속
+##### # APEX 웹 접속
 * VM 의 public 주소에 지정한 port(default 8080)로 접속합니다.
 ![]({{ 'assets/images/apex_01.png' | relative_url }})
 * 스크롤을 아래로 내려 Administration에 ADMIN 계정으로 접속 합니다.
