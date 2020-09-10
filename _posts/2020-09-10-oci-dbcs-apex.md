@@ -96,10 +96,10 @@ java -jar ./ords.war install advanced
 
 * 테스트로 설치한 APEX 사이트: [link](http://150.136.125.158:8080/ords/f?p=4550:1:7259868572154:::::){:target="_blank"}
 * APEX Tips : Basic APEX Management: [link](https://oracle-base.com/articles/misc/apex-tips-basic-apex-management){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
-*: [link](){:target="_blank"}
+* 4 Installing Application Express and Configuring Oracle REST Data Services: [link](https://docs.oracle.com/cd/E59726_01/install.50/e39144/listener.htm#HTMIG29143){:target="_blank"}
+* Administration Guide: [link](https://docs.oracle.com/en/database/oracle/application-express/19.1/aeadm/index.html){:target="_blank"}
+* Oracle Apex 20.1 Installation on Oracle 12c Part 1 Apex: [link](https://www.youtube.com/watch?v=aUkO2Qf1UvA&t=825s){:target="_blank"}
+* Oracle REST Data Services (ORDS) : Installation on Tomcat: [link](https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-installation-on-tomcat){:target="_blank"}
+* ORACLE Ords+Apex 18.1 to 18.2 upgrade: [link](https://dayhap.tistory.com/entry/ORACLE-OrdsApex-181-to-182-upgrade){:target="_blank"}
+* Oracle Apex 20.1 Installation: [link](https://bigdataenthusiast.wordpress.com/2020/08/02/apex-20-1-installation/){:target="_blank"}
+* Install Oracle REST Data Services 3.0.X in under 5 minutes: [link](https://blog.cdivilly.com/2015/03/11/install-ords-3.0.0){:target="_blank"}
