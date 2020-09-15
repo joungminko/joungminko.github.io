@@ -1,8 +1,8 @@
 ---
-title: "[OCI] excel 데이터를 APEX를 이용 Autonomous DB upload"
+title: "[OCI] OAC 데이터를 Autonomous DB upload"
 ---
 
-### [OCI] excel 데이터를 APEX를 이용 Autonomous DB upload
+### [OCI] OAC 데이터를 Autonomous DB upload
 
 OAC에서 사용하는 Data를 ADB에 올리기 위한 작업을 하기위한 방법 설명입니다.
 OAC의 데이터를 엑셀로 내려받아 그 엑셀 파일을 SQL developer에서 올리는 방법에 대한 안내입니다.
