@@ -64,5 +64,5 @@ OCI와 Azure 간 IPsec VPN 연결을 위한 방법 설명입니다.(static 연�
 
   * OCI에서 사용할 서비스 포트 오픈
 
-
+![]({{ 'assets/images/vpn_connection_test.png' | relative_url }})
 
