@@ -42,6 +42,8 @@ OCI와 Azure 간 IPsec VPN 연결을 위한 방법 설명입니다.(static 연�
     * IP 주소: OCI IPsec tunnel에 배정된 public IP
 
     * 주소 공간: 해당 local network gateway가 라우팅할 OCI의 가상 네트워크 IP 대역(CIDR)
+    
+    * IKE 버전을 OCI tunnel 설정과 맞춰줘야 한다 1 아니면 2
 ![]({{ 'assets/images/local_network_gateway.jpg' | relative_url }})
 
 * Azure에서 Route table 생성
